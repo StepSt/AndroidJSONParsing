@@ -32,6 +32,7 @@ public class MainActivity extends ListActivity {
     private static final String TAG_PHONE_HOME = "home";
     private static final String TAG_PHONE_OFFICE = "office";
 
+
     JSONArray contacts = null;
 
     ArrayList<HashMap<String, String>> contactList;
